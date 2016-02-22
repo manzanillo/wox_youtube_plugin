@@ -1,0 +1,12 @@
+﻿{
+  "ID":"7fafc0e295f111e59fc4890db7b1321b",//Plugin ID，32 bit UUID
+  "ActionKeyword":"yt", //Plugin default action keyword
+  "Name":"Youtube",   //Plugin name
+  "Description":"Search for videos on Youtube", //Plugin description
+  "Author":"manza",   //Plugin Author
+  "Version":"1.0.0",  //Plugin version，must be x.x.x format
+  "Language":"python",
+  "Website":"",       //Plugin website or author website
+  "IcoPath": "icon.png",              //Plugin icon, relative path to the plugin folder
+  "ExecuteFileName":"youtube.py"      //Execution entry. Dll name for c# plugin, and python file for python plugin
+}
