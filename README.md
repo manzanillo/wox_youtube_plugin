@@ -9,7 +9,7 @@ To learn more about WOX visit http://www.getwox.com/.
 
 To have a youtube logo displayed while searching, add one to the wox_youtube Plugin folder and rename it to icon.png.
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/manzanillo/wox_youtube_plugin/master/screenshot.PNG)
 
 Before being able to use the plugin you have to create an API key for Youtube. After creating it, you can parse it into the config.json file or use "yt --config api *Your key here*".
 
