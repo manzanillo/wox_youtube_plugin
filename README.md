@@ -13,4 +13,4 @@ To have a youtube logo displayed while searching, add one to the wox_youtube Plu
 
 Before being able to use the plugin you have to create an API key for Youtube. After creating it, you can parse it into the config.json file or use "yt --config api *Your key here*".
 
-To change the language use "yt --language *your 2 char language code" and to change the maximum number of results displayed to e.g. 0 use "yt --config maxResults 10".
+To change the language use "yt --language *your 2 char language code*" (like it for italian, da for dansk or de for german) and to change the maximum number of results displayed to e.g. 10 use "yt --config maxResults 10".
